@@ -58,7 +58,7 @@ var mixChart = new Chart(mix, {
                     },
                     scaleLabel: {
                         display: true,
-                        labelString: 'Kesal (U$)'
+                        labelString: 'Kesal'
                       }
                 },
                 {
