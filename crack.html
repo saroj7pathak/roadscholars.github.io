@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>ICS484 Final Project</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/custom.css" rel="stylesheet">
+  <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+<style>
+  body{
+    text-align: center;
+  }
+  #loadingMessage{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+</style>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container">
+    <!-- Logo and responsive toggle -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <!-- Navbar links -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active" ><a href="index.html" style='font-size: 22pt;'>Home</a></li>
+        <li><a href="about.html" style='font-size: 22pt;'>About</a></li>
+        <li><a href="analysis.html" style='font-size: 22pt;'>Analysis</a></li>
+        <li><a href="traffic.html" style='font-size: 22pt;'>Traffic</a></li>
+        <li><a href="crack.html" style='font-size: 22pt;'>Cracks</a></li>
+        <li> <a href="gis.html" style='font-size: 22pt;'>GIS</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#" style='font-size: 22pt;'>Contact</a></li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+    <!-- /.container -->
+</nav>
+
+<div id='myDiv'><!-- Plotly chart will be drawn inside this DIV --></div>
+
+</body>
+
+<script src="./pieChart.js"></script>
+<script src="./mixChart.js"></script>
+<script src="./crack.js"></script>
+
+</html>
