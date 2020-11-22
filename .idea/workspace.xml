@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459fcf0a-aa22-40ae-a0c1-b08dd198cdde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Charts/HawaiiAvgTraffic.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d.html" beforeDir="false" afterPath="$PROJECT_DIR$/3d.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section.html" beforeDir="false" afterPath="$PROJECT_DIR$/section.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Charts/AgeVcrack.js" beforeDir="false" afterPath="$PROJECT_DIR$/Charts/AgeVcrack.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/traffic.html" beforeDir="false" afterPath="$PROJECT_DIR$/traffic.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

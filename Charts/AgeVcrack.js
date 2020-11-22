@@ -204,7 +204,7 @@ var mixChart = new Chart(mix, {
                     },
                     scaleLabel: {
                         display: true,
-                        labelString: 'Age'
+                        labelString: 'Age(Yrs)'
                       },
                   gridLines: {
                     display: false
