@@ -160,6 +160,10 @@ var mixChart = new Chart(mix, {
     ]
   },
   options: {
+    legend:{
+      display:false,
+      position:'right'
+    },
     scales: {
       yAxes: [
         {

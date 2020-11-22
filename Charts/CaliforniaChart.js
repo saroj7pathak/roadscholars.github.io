@@ -75,6 +75,10 @@ var mixChart = new Chart(mix, {
     ]
   },
   options: {
+    legend:{
+      display:false,
+      position:'right'
+    },
     scales: {
       yAxes: [
         {
@@ -94,7 +98,11 @@ var mixChart = new Chart(mix, {
       xAxes: [{
         gridLines: {
           display: false
-        }
+        },
+        scaleLabel: {
+          display: true,
+          labelString: 'Year'
+        },
       }
       ]
     },
