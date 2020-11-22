@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459fcf0a-aa22-40ae-a0c1-b08dd198cdde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/roadscholars.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Charts/HawaiiPieChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Charts/Hawaiicrack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Charts/pieChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HawaiiTraffic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Peter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Peter.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/azhao.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Images/azhao.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crack.html" beforeDir="false" afterPath="$PROJECT_DIR$/crack.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crack.js" beforeDir="false" afterPath="$PROJECT_DIR$/Charts/crack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ltpp_info.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Images/ltpp_info.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mixChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/Charts/mixChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pieChart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rd_traffic.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Images/rd_traffic.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/road.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Images/road.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HawaiiTraffic.html" beforeDir="false" afterPath="$PROJECT_DIR$/HawaiiTraffic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/traffic.html" beforeDir="false" afterPath="$PROJECT_DIR$/traffic.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
