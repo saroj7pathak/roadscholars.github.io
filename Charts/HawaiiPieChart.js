@@ -16,7 +16,7 @@ var data = [
 ];
 var pie = document.getElementById("HawaiiPieChart").getContext('2d');
 var myChart = new Chart(pie, {
-    type: 'pie',
+    type: 'polarArea',
     data: {
         labels: labels,
         datasets: [
