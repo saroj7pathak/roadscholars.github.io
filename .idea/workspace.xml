@@ -2,52 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459fcf0a-aa22-40ae-a0c1-b08dd198cdde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/roadscholars.github.io.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/TOC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/css.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/extend.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/faq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/html.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/js.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/misc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/humans.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roadscholars.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tile-wide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Charts/HawaiiPieChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Charts/Hawaiicrack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Charts/pieChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HawaiiTraffic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Peter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Peter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azhao.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Images/azhao.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crack.html" beforeDir="false" afterPath="$PROJECT_DIR$/crack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crack.js" beforeDir="false" afterPath="$PROJECT_DIR$/Charts/crack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltpp_info.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Images/ltpp_info.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mixChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/Charts/mixChart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pieChart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rd_traffic.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Images/rd_traffic.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/road.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Images/road.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/traffic.html" beforeDir="false" afterPath="$PROJECT_DIR$/traffic.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kcv1afNWXhOmHVjmGW2lNihgVA" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\peace\School\ICS 484\Projects\Project 3\HTML-20201117T060411Z-001\HTML\roadscholars.github.io\Images" />
+      <recent name="C:\Users\peace\School\ICS 484\Projects\Project 3\HTML-20201117T060411Z-001\HTML\roadscholars.github.io\Charts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\peace\School\ICS 484\Projects\Project 3\HTML-20201117T060411Z-001\HTML\roadscholars.github.io" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,8 +77,39 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="53" key="#Plugins" timestamp="1606012551964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1606012551964" />
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606021199705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606021199705" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606012608650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606012608650" />
+    <state width="1522" height="218" key="GridCell.Tab.0.bottom" timestamp="1606014853844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606014853844" />
+    <state width="1522" height="218" key="GridCell.Tab.0.center" timestamp="1606014853844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606014853844" />
+    <state width="1522" height="218" key="GridCell.Tab.0.left" timestamp="1606014853844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606014853844" />
+    <state width="1522" height="218" key="GridCell.Tab.0.right" timestamp="1606014853844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606014853844" />
   </component>
 </project>
