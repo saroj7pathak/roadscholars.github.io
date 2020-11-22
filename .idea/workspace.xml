@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459fcf0a-aa22-40ae-a0c1-b08dd198cdde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MON_DIS_AC_CRACK_INDEX.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/MON_DIS_AC_CRACK_INDEX.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis.html" beforeDir="false" afterPath="$PROJECT_DIR$/gis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/traffic.html" beforeDir="false" afterPath="$PROJECT_DIR$/traffic.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\peace\School\ICS 484\Projects\Project 3\HTML-20201117T060411Z-001\HTML\roadscholars.github.io\Data" />
       <recent name="C:\Users\peace\School\ICS 484\Projects\Project 3\HTML-20201117T060411Z-001\HTML\roadscholars.github.io\Images" />
       <recent name="C:\Users\peace\School\ICS 484\Projects\Project 3\HTML-20201117T060411Z-001\HTML\roadscholars.github.io\Charts" />
     </key>
