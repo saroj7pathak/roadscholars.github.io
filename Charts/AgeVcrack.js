@@ -174,7 +174,8 @@ var mixChart = new Chart(mix, {
             {
                 label: "Age",
                 data: age,
-                borderColor: 'rgba(0, 0, 0, 0)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
                 backgroundColor: 'rgba(75, 192, 192, 0.5)',
                 yAxisID: 'age',
             }

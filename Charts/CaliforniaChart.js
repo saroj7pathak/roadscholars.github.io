@@ -68,6 +68,8 @@ var mixChart = new Chart(mix, {
       {
         label: "kESAL",
         data: kesal,
+        borderColor: 'rgba(54, 162, 235, 1)',
+        borderWidth: 3,
         backgroundColor: 'rgba(54, 162, 235, 0.5)',
         yAxisID: 'kESAL',
       }
